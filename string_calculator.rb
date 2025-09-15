@@ -1,7 +1,7 @@
 class StringCalculator
 
   def self.add(numbers)
-    # Implementation will go here
+    return 0 if numbers.strip.empty?
   end
 
 end
